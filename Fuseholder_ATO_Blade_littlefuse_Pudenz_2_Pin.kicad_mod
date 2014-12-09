@@ -1,6 +1,6 @@
 (module Fuseholder_ATO_Blade_littlefuse_Pudenz_2_Pin (layer F.Cu)
   (tags "Fuseholder ATO Blade littlefuse Pudenz 2 Pin")
-  (fp_text reference F (at 4.572 -2.784) (layer F.SilkS)
+  (fp_text reference Fuseholder_ATO_Blade_littlefuse_Pudenz_2_Pin (at 4.572 -2.784) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 5.072 5.216) (layer F.SilkS)

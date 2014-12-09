@@ -1,12 +1,12 @@
-(module Fuseholder5x20_horiz_open_universal_Type-III_RevC_Date24Feb2011 (layer F.Cu)
+(module Fuseholder5x20_horiz_open_universal_Type-III (layer F.Cu)
   (at 0 0)
   (descr "Fuseholder, 5x20, open, horizontal, Type-III, universal, inline, lateral,")
   (tags "Fuseholder, 5x20, open, horizontal, Type-III, universal, inline, lateral, Sicherungshalter, offen,")
-  (fp_text reference F (at 0 -5.08) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Fuseholder5x20_horiz_open_universal_Type-III (at 0 -5.08) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Fuseholder5x20_horiz_open_universal_Type-III_RevC_Date24Feb2011 (at 2.54 6.35) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 2.54 6.35) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.2512 0) (end 3.2512 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.3401 3.429) (end -6.2611 3.429) (layer F.SilkS) (width 0.15))

@@ -1,12 +1,12 @@
-(module Fuseholder5x20_horiz_open_lateral_Type-II_RevC_Date24Feb2011 (layer F.Cu)
+(module Fuseholder5x20_horiz_open_lateral_Type-II (layer F.Cu)
   (at 0 0)
   (descr "Fuseholder, 5x20, open, horizontal, Type-II, lateral,")
   (tags "Fuseholder, 5x20, open, horizontal, Type-II, lateral, Sicherungshalter, offen,")
-  (fp_text reference F (at 0 -5.08) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Fuseholder5x20_horiz_open_lateral_Type-II (at 0 -5.08) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Fuseholder5x20_horiz_open_lateral_Type-II_RevC_Date24Feb2011 (at -1.27 6.35) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -1.27 6.35) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.2512 0) (end -3.2512 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 12.86764 3.429) (end 9.05764 3.429) (layer F.SilkS) (width 0.15))
