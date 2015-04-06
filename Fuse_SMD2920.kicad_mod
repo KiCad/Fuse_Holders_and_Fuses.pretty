@@ -1,4 +1,4 @@
-(module Fuse_SMD2920 (layer F.Cu) (tedit 551E7B25)
+(module Fuse_SMD2920 (layer F.Cu) (tedit 552259FD)
   (descr "Fuse, 2920 chip size")
   (tags "Fuse SMD2920")
   (attr smd)
