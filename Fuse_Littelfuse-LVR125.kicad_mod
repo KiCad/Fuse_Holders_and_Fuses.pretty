@@ -24,7 +24,7 @@
   (fp_line (start 16.4 2.75) (end -5 2.75) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 11.4 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Fuse_Littelfuse-LVR125.wrl
+  (model ${KISYS3DMOD}/Fuse_Holders_and_Fuses.3dshapes/Fuse_Littelfuse-LVR125.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
