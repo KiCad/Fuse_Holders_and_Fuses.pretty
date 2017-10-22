@@ -1,10 +1,10 @@
-(module Fuseholder_Schruter_FUP_horiz_closed_5x20mm_or_6.3x32mm (layer F.Cu) (tedit 59354F31)
-  (descr "Shock-Safe closed Fuseholder, Schruter FUP Series, 5.0 x 20mm or 6.3 x 32 mm, Slotted Cap, horizontal, 500 VAC 4W/16A (VDE), 600V 30A (UL/CSA), 5x20mm order numbers: 0031.2510 (0031.2500 + 0031.2323),, 6.3x32mm order numbers: 0031.2520 (0031.2500 + 0031.2321), http://www.schurter.ch/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FUP.pdf")
+(module Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed (layer F.Cu) (tedit 59ECF7C4)
+  (descr "Shock-Safe closed Fuseholder, Schurter FUP Series, 5.0 x 20mm or 6.3 x 32 mm, Slotted Cap, horizontal, 500 VAC 4W/16A (VDE), 600V 30A (UL/CSA), 5x20mm order numbers: 0031.2510 (0031.2500 + 0031.2323),, 6.3x32mm order numbers: 0031.2520 (0031.2500 + 0031.2321), http://www.schurter.ch/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FUP.pdf")
   (tags "Fuseholder 6.3x32mm 5x20mm horizontal closed")
   (fp_text reference REF** (at 0 -8.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Fuseholder_Schruter_FUP_horiz_closed_5x20mm_or_6.3x32mm (at 24 10.75) (layer F.Fab)
+  (fp_text value Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed (at 24 10.75) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.36 -9.12) (end 48.16 -9.12) (layer F.CrtYd) (width 0.05))
@@ -66,7 +66,7 @@
   (pad 2 thru_hole oval (at 10.16 -7.62) (size 4 2.5) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 10.16 7.62) (size 4 2.5) (drill 1.3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 40.64 0) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Schruter_FUP_horiz_closed_5x20mm_or_6.3x32mm.wrl
+  (model ${KISYS3DMOD}/Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
